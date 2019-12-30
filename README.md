@@ -1,6 +1,6 @@
 # Neural Network
 
-A small and straightforward Neural Network, from scratch.
+A small and straightforward Neural Network, from scratch (with good ol' Numpy, of course).
 
 Tests the digits dataset (digits 0 to 9) against the network.
 
